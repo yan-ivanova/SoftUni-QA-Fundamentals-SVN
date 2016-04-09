@@ -1,1 +1,1 @@
-This test for SVN
+This is a test for SVN
